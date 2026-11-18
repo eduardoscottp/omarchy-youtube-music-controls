@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Eduardo Scott",
   "license": "MIT",
-  "description": "Direct YouTube Music playback controls for the Omarchy bar.",
+  "description": "Keep YouTube Music in the flow: direct playback controls in the bar and music that stays on when the window gets out of the way.",
   "repository": "https://github.com/eduardoscottp/omarchy-youtube-music-controls",
   "kinds": ["bar-widget"],
   "entryPoints": { "barWidget": "BarWidget.qml" },

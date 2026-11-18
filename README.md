@@ -1,6 +1,12 @@
 # YouTube Music Controls for Omarchy
 
-Direct previous, play/pause, and next controls for YouTube Music in the Omarchy bar.
+Your music belongs in the flow, not in the way. Put previous, play/pause, next,
+and the current track directly in the Omarchy bar; keep the soundtrack going
+while you tuck the YouTube Music window out of sight and reclaim your screen.
+
+The companion `Super + Y` workflow can bring the player forward when you want
+the full YouTube Music experience, then hide it again while playback continues
+quietly in the background.
 
 ## Install
 
