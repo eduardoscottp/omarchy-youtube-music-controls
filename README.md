@@ -19,7 +19,7 @@ Open `music.youtube.com` in a Chromium-based browser and start playback. The plu
 ## Remove
 
 ```bash
-omarchy plugin remove eduardoscottp.youtube-music-controls --yes
+omarchy plugin remove io.github.eduardoscottp.youtube-music-controls --yes
 ```
 
 ## License

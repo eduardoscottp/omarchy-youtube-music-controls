@@ -4,7 +4,7 @@ import qs.Commons
 
 BarWidget {
   id: root
-  moduleName: "eduardoscottp.youtube-music-controls"
+  moduleName: "io.github.eduardoscottp.youtube-music-controls"
   readonly property var media: bar?.shell?.firstPartyServiceFor("omarchy.media")
   readonly property var player: media ? media.activePlayer : null
   readonly property bool visibleTrack: !!player && !!(player.trackTitle || player.trackArtist)
