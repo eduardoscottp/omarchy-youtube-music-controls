@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "eduardoscottp.youtube-music-controls",
+  "name": "YouTube Music Controls",
+  "version": "1.0.0",
+  "author": "Eduardo Scott",
+  "license": "MIT",
+  "description": "Direct YouTube Music playback controls for the Omarchy bar.",
+  "repository": "https://github.com/eduardoscottp/omarchy-youtube-music-controls",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BarWidget.qml" },
+  "barWidget": { "displayName": "YouTube Music Controls", "description": "Previous, play/pause, next, and now playing.", "category": "Media", "allowMultiple": false, "defaultSection": "centerEnd" }
+}
