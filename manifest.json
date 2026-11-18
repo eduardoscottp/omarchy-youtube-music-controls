@@ -4,9 +4,7 @@
   "name": "YouTube Music Controls",
   "version": "1.0.0",
   "author": "Eduardo Scott",
-  "license": "MIT",
   "description": "Keep YouTube Music in the flow: direct playback controls in the bar and music that stays on when the window gets out of the way.",
-  "repository": "https://github.com/eduardoscottp/omarchy-youtube-music-controls",
   "kinds": ["bar-widget"],
   "entryPoints": { "barWidget": "BarWidget.qml" },
   "barWidget": { "displayName": "YouTube Music Controls", "description": "Previous, play/pause, next, and now playing.", "category": "Media", "allowMultiple": false, "defaultSection": "centerEnd" }
